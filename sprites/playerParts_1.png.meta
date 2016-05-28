@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 6c85a7a1a0ab50443a4265b441fd3330
+timeCreated: 1464291706
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerParts_1_backLegBottom
+    21300002: playerParts_1_backLegTop
+    21300004: playerParts_1_torso
+    21300006: playerParts_1_head
+    21300008: playerParts_1_backArmTop
+    21300010: playerParts_1_backArmBottom
+    21300012: playerParts_1_pack
+    21300014: playerParts_1_backBootTop
+    21300016: playerParts_1_backBootBottom
+    21300018: playerParts_1_backGlove
+    21300020: playerParts_1_frontArmTop
+    21300022: playerParts_1_frontArmBottom
+    21300024: playerParts_1_frontLegBottom
+    21300026: playerParts_1_frontLegTop
+    21300028: playerParts_1_frontBootTop
+    21300030: playerParts_1_frontBootBottm
+    21300032: playerParts_1_frontGlove
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerParts_1_backLegBottom
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 214
+        width: 40
+        height: 114
+      alignment: 9
+      pivot: {x: 0.61265105, y: 0.90656054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5060425, y: 10.6521}
+        - {x: -24.506042, y: -10.3479}
+        - {x: -24.506042, y: -76.3479}
+        - {x: -21.506042, y: -95.3479}
+        - {x: -15.5060425, y: -103.3479}
+        - {x: 4.4939575, y: -103.3479}
+        - {x: 15.4939575, y: -24.3479}
+        - {x: 15.4939575, y: 3.6520996}
+        - {x: 9.4939575, y: 10.6521}
+    - name: playerParts_1_backLegTop
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 196
+        width: 55
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5585205, y: 0.90287274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.718628, y: 14.27771}
+        - {x: -30.718628, y: 7.27771}
+        - {x: -30.718628, y: -112.72229}
+        - {x: -12.718628, y: -132.72229}
+        - {x: 7.281372, y: -132.72229}
+        - {x: 24.281372, y: -86.72229}
+        - {x: 24.281372, y: -1.72229}
+        - {x: 19.281372, y: 14.27771}
+    - name: playerParts_1_torso
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 290
+        width: 74
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5086992, y: 0.13965656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.356262, y: 158.30319}
+        - {x: -37.643738, y: 158.30319}
+        - {x: -37.643738, y: -21.696808}
+        - {x: -31.643738, y: -25.696808}
+        - {x: 27.356262, y: -25.696808}
+        - {x: 36.356262, y: -19.696808}
+        - {x: 36.356262, y: 131.30319}
+        - {x: 13.356262, y: 154.30319}
+    - name: playerParts_1_head
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 179
+        width: 67
+        height: 103
+      alignment: 9
+      pivot: {x: 0.42494258, y: 0.0931358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.471153, y: 93.40701}
+        - {x: -28.471153, y: 76.40701}
+        - {x: -28.471153, y: 17.407013}
+        - {x: -20.471153, y: -4.592987}
+        - {x: -12.471153, y: -9.592987}
+        - {x: 28.528847, y: -9.592987}
+        - {x: 38.528847, y: -6.592987}
+        - {x: 38.528847, y: 84.40701}
+        - {x: 21.528847, y: 93.40701}
+    - name: playerParts_1_backArmTop
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 159
+        width: 42
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4862776, y: 0.836195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.57634, y: 15.6909485}
+        - {x: 16.57634, y: 17.690948}
+        - {x: -19.42366, y: 17.690948}
+        - {x: -20.42366, y: 16.690948}
+        - {x: -20.42366, y: -73.30905}
+        - {x: -19.42366, y: -87.30905}
+        - {x: -11.42366, y: -90.30905}
+        - {x: 8.57634, y: -90.30905}
+        - {x: 8.57634, y: -87.30905}
+        - {x: 16.57634, y: -79.30905}
+        - {x: 21.57634, y: -72.30905}
+    - name: playerParts_1_backArmBottom
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 170
+        width: 40
+        height: 85
+      alignment: 9
+      pivot: {x: 0.33907014, y: 0.88623244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.562805, y: 9.670242}
+        - {x: -13.562805, y: -32.329758}
+        - {x: -2.5628052, y: -75.32976}
+        - {x: 25.437195, y: -75.32976}
+        - {x: 26.437195, y: -73.32976}
+        - {x: 26.437195, y: -30.329758}
+        - {x: 18.437195, y: 9.670242}
+    - name: playerParts_1_pack
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 40
+        width: 47
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 111}
+        - {x: -14.5, y: 111}
+        - {x: -15.5, y: 110}
+        - {x: -23.5, y: -21}
+        - {x: -23.5, y: -111}
+        - {x: 23.5, y: -111}
+        - {x: 23.5, y: 60}
+        - {x: -1.5, y: 110}
+    - name: playerParts_1_backBootTop
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 95
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -16, y: -22.5}
+        - {x: 4, y: -22.5}
+        - {x: 12, y: -21.5}
+        - {x: 16, y: -9.5}
+        - {x: 16, y: 22.5}
+    - name: playerParts_1_backBootBottom
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 107
+        width: 64
+        height: 30
+      alignment: 9
+      pivot: {x: 0.27713382, y: 0.8268702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerParts_1_backGlove
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 107
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3971316, y: 0.8184798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2967377, y: 9.076019}
+        - {x: -14.296738, y: 5.0760193}
+        - {x: -14.296738, y: -15.923981}
+        - {x: -10.296738, y: -37.92398}
+        - {x: -5.2967377, y: -40.92398}
+        - {x: 19.703262, y: -40.92398}
+        - {x: 21.703262, y: -39.92398}
+        - {x: 21.703262, y: -9.923981}
+        - {x: 14.703262, y: 9.076019}
+    - name: playerParts_1_frontArmTop
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 26
+        width: 42
+        height: 108
+      alignment: 9
+      pivot: {x: 0.48627764, y: 0.836195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.42366, y: 17.69094}
+        - {x: -20.42366, y: 12.690941}
+        - {x: -20.42366, y: -79.30906}
+        - {x: -12.42366, y: -90.30906}
+        - {x: 10.57634, y: -90.30906}
+        - {x: 21.57634, y: -74.30906}
+        - {x: 21.57634, y: 5.690941}
+        - {x: 16.57634, y: 17.69094}
+    - name: playerParts_1_frontArmBottom
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 31
+        width: 39
+        height: 85
+      alignment: 9
+      pivot: {x: 0.32266626, y: 0.8661416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.416016, y: 8.37796}
+        - {x: 9.416016, y: 11.37796}
+        - {x: -12.583984, y: 11.37796}
+        - {x: -12.583984, y: -37.62204}
+        - {x: -3.5839844, y: -73.62204}
+        - {x: 22.416016, y: -73.62204}
+        - {x: 26.416016, y: -71.62204}
+        - {x: 26.416016, y: -47.62204}
+        - {x: 19.416016, y: -20.62204}
+    - name: playerParts_1_frontLegBottom
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 26
+        width: 40
+        height: 114
+      alignment: 9
+      pivot: {x: 0.60085833, y: 0.8943338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.034332, y: 12.045952}
+        - {x: -21.034332, y: 8.045952}
+        - {x: -24.034332, y: -8.954048}
+        - {x: -24.034332, y: -73.95405}
+        - {x: -18.034332, y: -101.95405}
+        - {x: 3.9656677, y: -101.95405}
+        - {x: 15.965668, y: -31.954048}
+        - {x: 15.965668, y: 12.045952}
+    - name: playerParts_1_frontLegTop
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 22
+        width: 56
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5308751, y: 0.88552094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.729004, y: 16.942902}
+        - {x: -29.729004, y: 6.9429016}
+        - {x: -29.729004, y: -109.0571}
+        - {x: -12.729004, y: -131.0571}
+        - {x: 1.2709961, y: -131.0571}
+        - {x: 10.270996, y: -126.0571}
+        - {x: 26.270996, y: -60.0571}
+        - {x: 26.270996, y: 0.9429016}
+        - {x: 19.270996, y: 16.942902}
+    - name: playerParts_1_frontBootTop
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -16, y: -22.5}
+        - {x: -3, y: -22.5}
+        - {x: 10, y: -20.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 22.5}
+    - name: playerParts_1_frontBootBottm
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 64
+        height: 30
+      alignment: 9
+      pivot: {x: 0.2771338, y: 0.8268702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerParts_1_frontGlove
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3971316, y: 0.8184798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.703262, y: 9.076012}
+        - {x: -3.2967377, y: 9.076012}
+        - {x: -14.296738, y: 3.0760117}
+        - {x: -14.296738, y: -9.923988}
+        - {x: -10.296738, y: -34.92399}
+        - {x: -1.2967377, y: -40.92399}
+        - {x: 19.703262, y: -40.92399}
+        - {x: 21.703262, y: -35.92399}
+        - {x: 21.703262, y: -10.923988}
+        - {x: 14.703262, y: 8.076012}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

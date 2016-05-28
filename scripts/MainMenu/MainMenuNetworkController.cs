@@ -25,4 +25,8 @@ public class MainMenuNetworkController : MonoBehaviour {
     {
         netManager.StartClient();
     }
+    public void stopClient()
+    {
+        netManager.StopClient();
+    }
 }

@@ -51,7 +51,6 @@ public class PlayerShoot : NetworkBehaviour
     [Command (channel=0)] void CmdDoShoot(Vector3 mousePos)
     {
         Vector3 shootDirection;
-        Debug.Log(Time.time + " - " + nextFire);
         //MUST CHECK RATE OF FIRE AND OTHER ITEMS FROM SERVER STORED CHARACTER STATS
         if (Time.time < nextFire)
             return; //fired too recently
